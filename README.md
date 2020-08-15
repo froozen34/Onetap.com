@@ -1,5 +1,5 @@
 # Onetap.com
-keybinds
+keybinds java scripts 
 
 UI.AddLabel("                   Hotkeys            ");
 const x1 = UI.AddSliderInt("Hotkeys_x", 0, Global.GetScreenSize()[0]);
